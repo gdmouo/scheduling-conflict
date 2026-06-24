@@ -1,9 +1,9 @@
 const cacheName = "JC Arcade-Scheduling Conflict-Pre-Alpha";
 const contentToCache = [
-    "Build/scheduling-conflict webgl build.loader.js",
-    "Build/scheduling-conflict webgl build.framework.js.unityweb",
-    "Build/scheduling-conflict webgl build.data.unityweb",
-    "Build/scheduling-conflict webgl build.wasm.unityweb",
+    "Build/sc2new.loader.js",
+    "Build/sc2new.framework.js.unityweb",
+    "Build/sc2new.data.unityweb",
+    "Build/sc2new.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
